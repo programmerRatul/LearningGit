@@ -1,3 +1,3 @@
 just checking how git work 
 
-this is for second commit in git
+this is for second commit in git , hi there
