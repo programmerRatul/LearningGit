@@ -1,3 +1,4 @@
 just checking how git work 
 
 this is for second commit in git , hi there
+yo yo it is so much fun to learn git
